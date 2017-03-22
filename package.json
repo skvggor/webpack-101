@@ -1,0 +1,33 @@
+{
+  "name": "webpack-101",
+  "version": "1.0.0",
+  "description": "Webpack 101",
+  "main": "index.html",
+  "dependencies": {
+    "webpack": "^2.3.1"
+  },
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^0.3.1",
+    "webpack": "^2.3.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/webpack-101.git"
+  },
+  "keywords": [
+    "webpack",
+    "101",
+    "bundle",
+    "javascript",
+    "uglify"
+  ],
+  "author": "Marcos Garcia de Lima <marckfree@gmail.com> (http://marcker.github.io)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marcker/webpack-101/issues"
+  },
+  "homepage": "https://github.com/marcker/webpack-101#readme"
+}
